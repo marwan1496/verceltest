@@ -1,1 +1,1051 @@
-{"HorizonLayout":[{"showLogo":true,"layout":"logo","menuIcon":{"fontFamily":"CupertinoIcons","name":"text_justifyleft"},"showNotification":true,"showCart":false,"showMenu":true,"pos":100,"showSearch":false,"image":"https://i.imgur.com/o6jaHm1.png"},{"parallaxImageRatio":1.2,"isHorizontal":false,"isBlur":false,"upHeight":0,"items":[{"products":[],"image":"https://katanawave.com/wp-content/uploads/2022/11/app-slides-4.png","category":"1145","showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false},{"defaultShowProduct":false,"image":"https://katanawave.com/wp-content/uploads/2022/11/app-slides.png","products":[],"showSubcategory":false,"category":"1124","bannerWithProduct":false},{"image":"https://katanawave.com/wp-content/uploads/2022/11/app-slides.jpg","bannerWithProduct":false,"showSubcategory":false,"category":"260","defaultShowProduct":false,"products":[]},{"defaultShowProduct":false,"showSubcategory":false,"category":"1125","products":[],"bannerWithProduct":false,"image":"https://i.imgur.com/VTsHvsk.png"},{"bannerWithProduct":false,"products":[],"image":"https://katanawave.com/wp-content/uploads/2022/11/app-slides-3.png","defaultShowProduct":false,"showSubcategory":false}],"intervalTime":1,"layout":"bannerImage","padding":0,"showBackground":false,"design":"tinder","showNumber":false,"pos":200,"marginBottom":0,"radius":0,"marginTop":0,"fit":"fill","marginLeft":null,"height":0.44,"autoPlay":true,"marginRight":null,"isSlider":true,"parallax":false,"enableParallax":false},{"pos":300,"hMargin":6,"columns":0,"showCartIconColor":false,"layout":"threeColumn","hideTitle":false,"cardDesign":"card","vPadding":0,"backgroundRadius":10,"showHeart":false,"imageRatio":1.2,"showCartButton":false,"borderRadius":3,"hPadding":0,"hideStore":false,"onSale":false,"vMargin":0,"isSnapping":false,"showCartButtonWithQuantity":false,"showQuantity":false,"imageBoxfit":"cover","showStockStatus":true,"rows":1,"enableRating":false,"backgroundWidthMode":true,"featured":false,"hidePrice":false,"backgroundHeight":250,"name":"New Arrivals","enableBottomAddToCart":false,"cartIconRadius":9,"showCartIcon":false},{"height":0.11,"marginRight":0,"items":[{"radius":0,"padding":2.5,"image":"https://i.imgur.com/ZS26t9N.png","tab":"home"}],"marginTop":0,"fit":"fill","marginLeft":0,"isSlider":false,"layout":"bannerImage","pos":400,"marginBottom":0},{"marginBottom":3,"pos":500,"marginRight":0,"parallaxImageRatio":1.2,"marginTop":0,"items":[{"defaultShowProduct":false,"padding":2.5,"category":"596","showSubcategory":false,"bannerWithProduct":false,"products":[],"image":"https://i.imgur.com/sE9ln1H.png","radius":0},{"showSubcategory":false,"padding":2.5,"category":"600","defaultShowProduct":false,"products":[],"radius":0,"image":"https://i.imgur.com/EMqxJSm.png","bannerWithProduct":false}],"design":"static","height":0.2,"fit":"fill","marginLeft":0,"layout":"bannerImage","isHorizontal":false,"parallax":false,"enableParallax":false},{"layout":"bannerImage","items":[{"radius":0,"showSubcategory":false,"products":[],"category":"1143","padding":2.5,"defaultShowProduct":false,"bannerWithProduct":false,"image":"https://i.imgur.com/vVnRapl.png"},{"products":[],"defaultShowProduct":false,"image":"https://i.imgur.com/GBL3J3Y.png","showSubcategory":false,"bannerWithProduct":false,"padding":2.5,"category":"599","radius":0}],"height":0.2,"isHorizontal":false,"marginRight":0,"design":"static","fit":"fill","parallax":false,"enableParallax":false,"parallaxImageRatio":1.2,"pos":600,"marginTop":3,"marginLeft":0,"marginBottom":3},{"items":[{"padding":2.5,"defaultShowProduct":false,"image":"https://katanawave.com/wp-content/uploads/2022/11/2-Brand-Focus-4-1.png","showSubcategory":false,"bannerWithProduct":false,"products":[],"radius":0,"url":"https://www.youtube.com/watch?v=B5vYwkv7pnQ"}],"marginBottom":0,"parallax":false,"height":0.54,"enableParallax":false,"marginRight":0,"pos":700,"marginTop":0,"isHorizontal":false,"parallaxImageRatio":1.2,"fit":"fill","layout":"bannerImage","marginLeft":0,"design":"static"},{"cartIconRadius":9,"layout":"threeColumn","hPadding":0,"hideEmptyProductListRating":false,"parallaxImageRatio":1.2,"showCountDown":false,"backgroundRadius":10,"borderRadius":3,"rows":1,"onSale":false,"imageRatio":1.2,"hideTitle":false,"hideStore":false,"parallax":false,"columns":0,"image":"","vPadding":0,"showCartIcon":false,"showCartIconColor":false,"showHeart":false,"pos":800,"enableRating":false,"name":"Shop Core","cardDesign":"card","featured":false,"hideEmptyProductLayout":false,"enableBottomAddToCart":false,"showCartButtonWithQuantity":false,"showCartButton":false,"category":"1145","showQuantity":false,"isSnapping":false,"hMargin":0,"showStockStatus":true,"showOnlyImage":false,"imageBoxfit":"cover","vMargin":0,"hidePrice":false},{"items":[{"tab":"","image":"https://i.imgur.com/HnV9pC8.png","radius":0,"padding":2.5}],"pos":900,"marginTop":0,"layout":"bannerImage","marginBottom":0,"fit":"fill","marginRight":0,"isSlider":false,"marginLeft":0,"height":0.11},{"fit":"fill","isHorizontal":false,"parallax":false,"marginTop":0,"marginRight":0,"parallaxImageRatio":1.2,"enableParallax":false,"marginLeft":0,"items":[{"products":[],"radius":0,"category":"1121","showSubcategory":false,"padding":2.5,"image":"https://i.imgur.com/LhlNEOp.png","bannerWithProduct":false,"defaultShowProduct":false},{"image":"https://i.imgur.com/m8VGd8l.png","products":[],"defaultShowProduct":false,"bannerWithProduct":false,"showSubcategory":false,"padding":2.5,"radius":0,"category":"770"}],"marginBottom":3,"layout":"bannerImage","height":0.2,"pos":1000,"design":"static"},{"pos":1100,"showCartButtonWithQuantity":false,"isSnapping":false,"enableBottomAddToCart":false,"cartIconRadius":9,"hideTitle":false,"vPadding":0,"columns":0,"imageRatio":1.2,"hPadding":0,"hideStore":false,"rows":1,"showCartButton":false,"showStockStatus":true,"showCartIconColor":false,"imageBoxfit":"cover","featured":false,"vMargin":0,"name":"Shop Waterwear","category":"770","enableRating":false,"hMargin":0,"onSale":false,"cardDesign":"card","showCartIcon":false,"layout":"threeColumn","borderRadius":3,"backgroundRadius":10,"showQuantity":false,"showHeart":false,"hidePrice":false},{"pos":1200,"marginBottom":0,"marginLeft":0,"height":0.11,"marginRight":0,"isSlider":false,"layout":"bannerImage","fit":"fill","items":[{"padding":2.5,"tab":"","image":"https://i.imgur.com/UX43ISs.png"}],"marginTop":0},{"parallaxImageRatio":1.2,"height":0.2,"marginTop":4,"marginLeft":0,"isHorizontal":false,"fit":"fill","design":"static","parallax":false,"marginBottom":3,"enableParallax":false,"items":[{"defaultShowProduct":false,"products":[],"showSubcategory":false,"category":"196","image":"https://i.imgur.com/akycRTd.png","padding":2.5,"bannerWithProduct":false},{"showSubcategory":false,"padding":2.5,"products":[],"defaultShowProduct":false,"image":"https://i.imgur.com/ayzbnTF.png","bannerWithProduct":false,"category":"1144"}],"pos":1300,"layout":"bannerImage","marginRight":0},{"imageBoxfit":"cover","vPadding":0,"borderRadius":3,"vMargin":0,"imageRatio":1.2,"cardDesign":"card","columns":0,"layout":"threeColumn","rows":1,"hPadding":0,"enableBottomAddToCart":false,"showCartIcon":false,"cartIconRadius":9,"featured":false,"showCartButton":false,"pos":1400,"hidePrice":false,"backgroundRadius":10,"name":"Shop Accessories","hMargin":0,"hideStore":false,"category":"45","showStockStatus":true,"onSale":false,"showQuantity":false,"showHeart":false,"showCartButtonWithQuantity":false,"showCartIconColor":false,"hideTitle":false,"isSnapping":false,"enableRating":false},{"height":0.11,"marginRight":0,"pos":1500,"marginTop":0,"items":[{"padding":2.5,"tab":"","image":"https://i.imgur.com/wzsBLkD.png"}],"marginBottom":0,"marginLeft":0,"isSlider":false,"layout":"bannerImage","fit":"fill"},{"items":[{"defaultShowProduct":false,"category":"465","image":"https://i.imgur.com/cD4q5A9.png","bannerWithProduct":false,"showSubcategory":false,"padding":2.5,"products":[]},{"category":"264","defaultShowProduct":false,"products":[],"bannerWithProduct":false,"padding":2.5,"showSubcategory":false,"image":"https://i.imgur.com/CSiTAhO.png"}],"design":"static","pos":1600,"marginBottom":3,"parallax":false,"layout":"bannerImage","enableParallax":false,"parallaxImageRatio":1.2,"fit":"fill","height":0.2,"marginTop":0,"isHorizontal":false,"marginLeft":0,"marginRight":0},{"onSale":false,"backgroundRadius":10,"columns":0,"name":"Shop Clothing","showStockStatus":true,"enableBottomAddToCart":false,"vPadding":0,"vMargin":0,"showCartIconColor":false,"category":"772","showCartButtonWithQuantity":false,"showCartButton":false,"rows":1,"isSnapping":false,"cartIconRadius":9,"imageBoxfit":"cover","borderRadius":3,"hidePrice":false,"hideTitle":false,"layout":"threeColumn","enableRating":false,"imageRatio":1.2,"hPadding":0,"pos":1700,"showHeart":false,"hideStore":false,"featured":false,"cardDesign":"card","showCartIcon":false,"hMargin":0,"showQuantity":false},{"fit":"contain","title":{"marginRight":0,"title":"","marginTop":0,"marginLeft":15,"borderInput":false,"usePrimaryColor":true,"rotate":[],"marginBottom":0,"paddingRight":15,"textOpacity":1,"paddingLeft":5,"height":31,"isSafeArea":false,"paddingTop":0,"fontSize":25,"alignment":"centerLeft","paddingBottom":0,"fontWeight":400,"showSearch":false},"pos":1800,"marginTop":0,"marginBottom":0,"layout":"bannerImage","marginRight":0,"marginLeft":0,"items":[{"category":"618","image":"https://i.imgur.com/eTx1ctH.jpeg","padding":2.5}],"height":0.3,"design":"static"},{"isSafeArea":true,"rotate":[],"marginRight":0,"paddingTop":0,"marginBottom":0,"marginLeft":15,"layout":"header_text","fontWeight":800,"marginTop":14.000000000000002,"minWidth":0,"pos":1900,"borderInput":false,"paddingLeft":5,"fontSize":20,"textOpacity":1,"showSearch":false,"paddingBottom":0,"alignment":"centerLeft","height":16.5,"usePrimaryColor":true,"paddingRight":15,"title":"Our Brands"},{"noBackground":false,"marginBottom":10,"marginTop":10,"itemSize":{"width":243.06152343750009,"height":103.05686996603136},"imageBorderStyle":"solid","hideTitle":false,"border":0.5,"spacing":12,"marginLeft":10,"imageBoxFit":"fitWidth","pos":2000,"enableBorder":false,"items":[{"showText":false,"category":"479","showDescription":false,"image":"https://i.imgur.com/XYuJ1EG.jpeg","originalColor":true,"keepDefaultTitle":false},{"image":"https://i.imgur.com/65b9wpI.jpeg","category":null,"showText":false},{"category":"482","showText":false,"image":"https://i.imgur.com/NGgFEac.jpeg"},{"showText":false,"image":"https://i.imgur.com/Tx886Va.jpeg","category":"480"},{"category":"837","image":"https://i.imgur.com/XemMQCe.jpeg","showText":false},{"showText":false,"image":"https://i.imgur.com/wSZbSF9.jpeg","category":"899"},{"category":null,"showText":false,"image":"https://i.imgur.com/VxYLQYv.jpeg"},{"showText":false,"category":"972","image":"https://i.imgur.com/29H2LFH.jpeg"},{"image":"https://i.imgur.com/y4pkAp5.jpeg","showText":false,"category":"1046"}],"line":false,"textAlignment":"topLeft","wrap":false,"labelFontSize":14,"marginY":8,"type":"image","paddingY":8,"paddingX":4,"showShortDescription":true,"marginRight":10,"radius":0,"layout":"category","imageSpacing":0,"size":1,"marginX":4}],"Setting":{"TabBarConfig":{"marginRight":0,"showFloatingClip":false,"indicatorStyle":"none","iconSize":22.968195913186673,"radiusTopLeft":0,"TabBarFloating":{"color":"fff4e300","width":null,"height":null,"floatingType":"rectangle","position":2,"elevation":null,"location":"centerDocked","radius":null},"enableOnTop":false,"colorActiveIcon":"fff4e300","paddingLeft":0,"radiusTopRight":0,"showFloating":false,"colorIcon":"ff7a7b7f","color":null,"enable":true,"paddingRight":0,"paddingBottom":0,"marginBottom":0,"TabBarIndicator":{"horizontalPadding":null,"tabPosition":"bottom","distanceFromCenter":null,"topRightRadius":null,"paintingStyle":"fill","strokeWidth":null,"topLeftRadius":null,"verticalPadding":null,"radius":null,"height":null,"bottomRightRadius":null,"bottomLeftRadius":null,"color":null},"radiusBottomRight":0,"paddingTop":0,"colorCart":"fff4e300","isSafeArea":true,"marginLeft":0,"marginTop":0,"radiusBottomLeft":0},"ShowChat":true,"FontFamily":"Roboto","MainColor":"fff4e300","FontHeader":"Roboto","ProductListLayout":"list","ProductDetail":"simpleType","StickyHeader":true},"TabBar":[{"pos":100,"label":"Home","fontFamily":"Roboto","layout":"home","icon":"home"},{"pos":200,"categoryLayout":"sideMenu","fontFamily":"MaterialIcons","categories":["596","600","599","458","260","45","917","915"],"parallaxImageRatio":1.2,"parallax":false,"label":"Categories ","layout":"category","icon":"auto_awesome_mosaic_outlined"},{"icon":"assets/icons/tabs/icon-search.png","label":"search ","pos":300,"layout":"search"},{"pos":400,"label":"Cart ","icon":"assets/icons/tabs/icon-cart2.png","layout":"cart"},{"subGeneralSetting":{"web-vef2tbfpyc":{"enableClose":false,"enableBackward":true,"webViewMode":true,"script":"","title":"About","iconFontFamily":"CupertinoIcons","requiredLogin":false,"webUrl":"https://katanawave.com/company-profile/","icon":"exclamationmark_circle","enableForward":false},"privacy":{"requiredLogin":false,"webUrl":"https://katanawave.com/privacy-policy/","webViewMode":true},"web-mzmqfdgfmm":{"requiredLogin":true,"webUrl":"https://katanawave.com/delete-my-account/","enableBackward":true,"enableClose":true,"enableForward":false,"title":"Delete my account","script":"","icon":"delete_solid","webViewMode":false,"iconFontFamily":"CupertinoIcons"},"web-h7o9hcawxq":{"iconFontFamily":"CupertinoIcons","webUrl":"https://katanawave.com/privacy-policy/","webViewMode":true,"title":"Privacy Policy","enableClose":false,"enableForward":false,"enableBackward":true,"script":"","requiredLogin":false,"icon":"doc_text"},"about":{"requiredLogin":false,"script":"","enableClose":false,"enableBackward":true,"enableForward":false,"webViewMode":false,"webUrl":"https://katanawave.com/company-profile/"}},"settings":["wishlist","point","darkTheme","order","rating","web-vef2tbfpyc","web-h7o9hcawxq"],"label":"Pofile","drawerIcon":{"icon":"text_justifyleft","fontFamily":"CupertinoIcons"},"layout":"profile","pos":500,"background":"https://i.imgur.com/mWtgYAi.png","icon":"assets/icons/tabs/icon-user.png"}],"AppBar":{"items":[{"type":"icon","marginBottom":4,"fontWeight":"400","marginTop":4,"key":"zruzx6qq0u","iconSize":20,"fontSize":16,"icon":"bars","paddingTop":4,"pos":100,"marginRight":4,"marginLeft":16,"action":"menu","alignment":"center","fontFamily":"CupertinoIcons","paddingLeft":4,"paddingRight":4,"radius":100,"paddingBottom":4,"size":48,"textOpacity":0.5},{"iconSize":20,"icon":"search","marginBottom":4,"image":"https://i.imgur.com/hwBziBe.png","textOpacity":0.5,"action":"search","paddingRight":16,"fontWeight":"400","type":"image","fontFamily":"CupertinoIcons","marginLeft":4,"paddingLeft":16,"fontSize":16,"marginTop":4,"title":"Find your coffee...","key":"ok21lesrig","radius":100,"paddingBottom":4,"size":40,"imageBoxFit":"cover","height":56,"marginRight":4,"alignment":"center","paddingTop":4,"width":100,"pos":400},{"alignment":"center","fontFamily":"CupertinoIcons","size":48,"fontWeight":"400","paddingLeft":4,"key":"3il6u5on49","marginBottom":4,"marginLeft":4,"paddingRight":4,"marginTop":4,"fontSize":16,"marginRight":16,"type":"icon","icon":"bell_solid","iconSize":20,"action":"notification","paddingBottom":4,"radius":100,"paddingTop":4,"pos":500,"textOpacity":0.5}],"showOnScreens":[]},"Drawer":{"key":"istwspxjfc","safeArea":true,"iconColor":"ff000000","backgroundColor":"ffffff","items":[{"show":false,"type":"blog"},{"type":"home","show":true},{"show":true,"type":"login"},{"type":"category","show":true},{"show":false,"type":"categories"},{"show":false,"type":"cart"},{"type":"profile","show":false},{"type":"web","show":false},{"type":"title-fccpgcawf9","show":false},{"show":true,"type":"web-tt68qj25zk"},{"type":"web-k24kofxqzd","show":true},{"show":true,"type":"web-jurypvfuxz"}],"filter":0,"enable":true,"textColor":"ff000000","logoConfig":{"height":150,"width":250,"marginTop":60,"marginRight":0,"marginBottom":10,"boxFit":"cover","marginLeft":5},"zoomConfig":{"mainScreenScale":0.3,"enableShadow":true,"style":"style1","borderRadius":16,"backgroundImage":null,"angle":-3,"slideMargin":26,"slideWidth":0.65},"subDrawerItem":{"web-jurypvfuxz":{"title":"Centers Directory","webUrl":"https://katanawave.com/kitesurfing-in-egypt/","icon":"map","iconFontFamily":"CupertinoIcons","requiredLogin":false,"webViewMode":false},"web-k24kofxqzd":{"iconFontFamily":"MaterialIcons","webUrl":"https://katanawave.com/kite-courses/","requiredLogin":false,"webViewMode":false,"title":"Kite Courses","icon":"library_books_rounded"},"title-fccpgcawf9":{"fontSize":9,"title":"","verticalPadding":{"y":15,"x":15},"enableDivider":true,"titleColor":null},"web-tt68qj25zk":{"webViewMode":false,"webUrl":"https://katanawave.com/safari-trips/","requiredLogin":false,"title":"Safari Trips","icon":"anchor","iconFontFamily":"MaterialIcons"}},"logo":"https://i.imgur.com/fSPl8J5.png"},"Version":2,"Datetime":"01:05:12 - Sat 10 Dec"}
+{
+    "HorizonLayout": [
+        {
+            "showLogo": true,
+            "layout": "logo",
+            "menuIcon": {
+                "fontFamily": "CupertinoIcons",
+                "name": "text_justifyleft"
+            },
+            "showNotification": true,
+            "showCart": false,
+            "showMenu": true,
+            "pos": 100,
+            "showSearch": false,
+            "image": "https://i.imgur.com/o6jaHm1.png"
+        },
+        {
+            "parallaxImageRatio": 1.2,
+            "isHorizontal": false,
+            "isBlur": false,
+            "upHeight": 0,
+            "items": [
+                {
+                    "products": [],
+                    "image": "https://katanawave.com/wp-content/uploads/2022/11/app-slides-4.png",
+                    "category": "1145",
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false
+                },
+                {
+                    "defaultShowProduct": false,
+                    "image": "https://katanawave.com/wp-content/uploads/2022/11/app-slides.png",
+                    "products": [],
+                    "showSubcategory": false,
+                    "category": "1124",
+                    "bannerWithProduct": false
+                },
+                {
+                    "image": "https://katanawave.com/wp-content/uploads/2022/11/app-slides.jpg",
+                    "bannerWithProduct": false,
+                    "showSubcategory": false,
+                    "category": "260",
+                    "defaultShowProduct": false,
+                    "products": []
+                },
+                {
+                    "defaultShowProduct": false,
+                    "showSubcategory": false,
+                    "category": "1125",
+                    "products": [],
+                    "bannerWithProduct": false,
+                    "image": "https://i.imgur.com/VTsHvsk.png"
+                },
+                {
+                    "bannerWithProduct": false,
+                    "products": [],
+                    "image": "https://katanawave.com/wp-content/uploads/2022/11/app-slides-3.png",
+                    "defaultShowProduct": false,
+                    "showSubcategory": false
+                }
+            ],
+            "intervalTime": 1,
+            "layout": "bannerImage",
+            "padding": 0,
+            "showBackground": false,
+            "design": "tinder",
+            "showNumber": false,
+            "pos": 200,
+            "marginBottom": 0,
+            "radius": 0,
+            "marginTop": 0,
+            "fit": "fill",
+            "marginLeft": null,
+            "height": 0.44,
+            "autoPlay": true,
+            "marginRight": null,
+            "isSlider": true,
+            "parallax": false,
+            "enableParallax": false
+        },
+        {
+            "pos": 300,
+            "hMargin": 6,
+            "columns": 0,
+            "showCartIconColor": false,
+            "layout": "threeColumn",
+            "hideTitle": false,
+            "cardDesign": "card",
+            "vPadding": 0,
+            "backgroundRadius": 10,
+            "showHeart": false,
+            "imageRatio": 1.2,
+            "showCartButton": false,
+            "borderRadius": 3,
+            "hPadding": 0,
+            "hideStore": false,
+            "onSale": false,
+            "vMargin": 0,
+            "isSnapping": false,
+            "showCartButtonWithQuantity": false,
+            "showQuantity": false,
+            "imageBoxfit": "cover",
+            "showStockStatus": false,
+            "rows": 1,
+            "enableRating": false,
+            "backgroundWidthMode": true,
+            "featured": false,
+            "hidePrice": false,
+            "backgroundHeight": 250,
+            "name": "New Arrivals",
+            "enableBottomAddToCart": false,
+            "cartIconRadius": 9,
+            "showCartIcon": false
+        },
+        {
+            "height": 0.11,
+            "marginRight": 0,
+            "items": [
+                {
+                    "radius": 0,
+                    "padding": 2.5,
+                    "image": "https://i.imgur.com/ZS26t9N.png",
+                    "tab": "home"
+                }
+            ],
+            "marginTop": 0,
+            "fit": "fill",
+            "marginLeft": 0,
+            "isSlider": false,
+            "layout": "bannerImage",
+            "pos": 400,
+            "marginBottom": 0
+        },
+        {
+            "marginBottom": 3,
+            "pos": 500,
+            "marginRight": 0,
+            "parallaxImageRatio": 1.2,
+            "marginTop": 0,
+            "items": [
+                {
+                    "defaultShowProduct": false,
+                    "padding": 2.5,
+                    "category": "596",
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "products": [],
+                    "image": "https://i.imgur.com/sE9ln1H.png",
+                    "radius": 0
+                },
+                {
+                    "showSubcategory": false,
+                    "padding": 2.5,
+                    "category": "600",
+                    "defaultShowProduct": false,
+                    "products": [],
+                    "radius": 0,
+                    "image": "https://i.imgur.com/EMqxJSm.png",
+                    "bannerWithProduct": false
+                }
+            ],
+            "design": "static",
+            "height": 0.2,
+            "fit": "fill",
+            "marginLeft": 0,
+            "layout": "bannerImage",
+            "isHorizontal": false,
+            "parallax": false,
+            "enableParallax": false
+        },
+        {
+            "layout": "bannerImage",
+            "items": [
+                {
+                    "radius": 0,
+                    "showSubcategory": false,
+                    "products": [],
+                    "category": "1143",
+                    "padding": 2.5,
+                    "defaultShowProduct": false,
+                    "bannerWithProduct": false,
+                    "image": "https://i.imgur.com/vVnRapl.png"
+                },
+                {
+                    "products": [],
+                    "defaultShowProduct": false,
+                    "image": "https://i.imgur.com/GBL3J3Y.png",
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "padding": 2.5,
+                    "category": "599",
+                    "radius": 0
+                }
+            ],
+            "height": 0.2,
+            "isHorizontal": false,
+            "marginRight": 0,
+            "design": "static",
+            "fit": "fill",
+            "parallax": false,
+            "enableParallax": false,
+            "parallaxImageRatio": 1.2,
+            "pos": 600,
+            "marginTop": 3,
+            "marginLeft": 0,
+            "marginBottom": 3
+        },
+        {
+            "items": [
+                {
+                    "padding": 2.5,
+                    "defaultShowProduct": false,
+                    "image": "https://katanawave.com/wp-content/uploads/2022/11/2-Brand-Focus-4-1.png",
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "products": [],
+                    "radius": 0,
+                    "url": "https://www.youtube.com/watch?v=B5vYwkv7pnQ"
+                }
+            ],
+            "marginBottom": 0,
+            "parallax": false,
+            "height": 0.54,
+            "enableParallax": false,
+            "marginRight": 0,
+            "pos": 700,
+            "marginTop": 0,
+            "isHorizontal": false,
+            "parallaxImageRatio": 1.2,
+            "fit": "fill",
+            "layout": "bannerImage",
+            "marginLeft": 0,
+            "design": "static"
+        },
+        {
+            "cartIconRadius": 9,
+            "layout": "threeColumn",
+            "hPadding": 0,
+            "hideEmptyProductListRating": false,
+            "parallaxImageRatio": 1.2,
+            "showCountDown": false,
+            "backgroundRadius": 10,
+            "borderRadius": 3,
+            "rows": 1,
+            "onSale": false,
+            "imageRatio": 1.2,
+            "hideTitle": false,
+            "hideStore": false,
+            "parallax": false,
+            "columns": 0,
+            "image": "",
+            "vPadding": 0,
+            "showCartIcon": false,
+            "showCartIconColor": false,
+            "showHeart": false,
+            "pos": 800,
+            "enableRating": false,
+            "name": "Shop Core",
+            "cardDesign": "card",
+            "featured": false,
+            "hideEmptyProductLayout": false,
+            "enableBottomAddToCart": false,
+            "showCartButtonWithQuantity": false,
+            "showCartButton": false,
+            "category": "1145",
+            "showQuantity": false,
+            "isSnapping": false,
+            "hMargin": 0,
+            "showStockStatus": false,
+            "showOnlyImage": false,
+            "imageBoxfit": "cover",
+            "vMargin": 0,
+            "hidePrice": false
+        },
+        {
+            "items": [
+                {
+                    "tab": "",
+                    "image": "https://i.imgur.com/HnV9pC8.png",
+                    "radius": 0,
+                    "padding": 2.5
+                }
+            ],
+            "pos": 900,
+            "marginTop": 0,
+            "layout": "bannerImage",
+            "marginBottom": 0,
+            "fit": "fill",
+            "marginRight": 0,
+            "isSlider": false,
+            "marginLeft": 0,
+            "height": 0.11
+        },
+        {
+            "fit": "fill",
+            "isHorizontal": false,
+            "parallax": false,
+            "marginTop": 0,
+            "marginRight": 0,
+            "parallaxImageRatio": 1.2,
+            "enableParallax": false,
+            "marginLeft": 0,
+            "items": [
+                {
+                    "products": [],
+                    "radius": 0,
+                    "category": "1121",
+                    "showSubcategory": false,
+                    "padding": 2.5,
+                    "image": "https://i.imgur.com/LhlNEOp.png",
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false
+                },
+                {
+                    "image": "https://i.imgur.com/m8VGd8l.png",
+                    "products": [],
+                    "defaultShowProduct": false,
+                    "bannerWithProduct": false,
+                    "showSubcategory": false,
+                    "padding": 2.5,
+                    "radius": 0,
+                    "category": "770"
+                }
+            ],
+            "marginBottom": 3,
+            "layout": "bannerImage",
+            "height": 0.2,
+            "pos": 1000,
+            "design": "static"
+        },
+        {
+            "pos": 1100,
+            "showCartButtonWithQuantity": false,
+            "isSnapping": false,
+            "enableBottomAddToCart": false,
+            "cartIconRadius": 9,
+            "hideTitle": false,
+            "vPadding": 0,
+            "columns": 0,
+            "imageRatio": 1.2,
+            "hPadding": 0,
+            "hideStore": false,
+            "rows": 1,
+            "showCartButton": false,
+            "showStockStatus": false,
+            "showCartIconColor": false,
+            "imageBoxfit": "cover",
+            "featured": false,
+            "vMargin": 0,
+            "name": "Shop Waterwear",
+            "category": "770",
+            "enableRating": false,
+            "hMargin": 0,
+            "onSale": false,
+            "cardDesign": "card",
+            "showCartIcon": false,
+            "layout": "threeColumn",
+            "borderRadius": 3,
+            "backgroundRadius": 10,
+            "showQuantity": false,
+            "showHeart": false,
+            "hidePrice": false
+        },
+        {
+            "pos": 1200,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "height": 0.11,
+            "marginRight": 0,
+            "isSlider": false,
+            "layout": "bannerImage",
+            "fit": "fill",
+            "items": [
+                {
+                    "padding": 2.5,
+                    "tab": "",
+                    "image": "https://i.imgur.com/UX43ISs.png"
+                }
+            ],
+            "marginTop": 0
+        },
+        {
+            "parallaxImageRatio": 1.2,
+            "height": 0.2,
+            "marginTop": 4,
+            "marginLeft": 0,
+            "isHorizontal": false,
+            "fit": "fill",
+            "design": "static",
+            "parallax": false,
+            "marginBottom": 3,
+            "enableParallax": false,
+            "items": [
+                {
+                    "defaultShowProduct": false,
+                    "products": [],
+                    "showSubcategory": false,
+                    "category": "196",
+                    "image": "https://i.imgur.com/akycRTd.png",
+                    "padding": 2.5,
+                    "bannerWithProduct": false
+                },
+                {
+                    "showSubcategory": false,
+                    "padding": 2.5,
+                    "products": [],
+                    "defaultShowProduct": false,
+                    "image": "https://i.imgur.com/ayzbnTF.png",
+                    "bannerWithProduct": false,
+                    "category": "1144"
+                }
+            ],
+            "pos": 1300,
+            "layout": "bannerImage",
+            "marginRight": 0
+        },
+        {
+            "imageBoxfit": "cover",
+            "vPadding": 0,
+            "borderRadius": 3,
+            "vMargin": 0,
+            "imageRatio": 1.2,
+            "cardDesign": "card",
+            "columns": 0,
+            "layout": "threeColumn",
+            "rows": 1,
+            "hPadding": 0,
+            "enableBottomAddToCart": false,
+            "showCartIcon": false,
+            "cartIconRadius": 9,
+            "featured": false,
+            "showCartButton": false,
+            "pos": 1400,
+            "hidePrice": false,
+            "backgroundRadius": 10,
+            "name": "Shop Accessories",
+            "hMargin": 0,
+            "hideStore": false,
+            "category": "45",
+            "showStockStatus": false,
+            "onSale": false,
+            "showQuantity": false,
+            "showHeart": false,
+            "showCartButtonWithQuantity": false,
+            "showCartIconColor": false,
+            "hideTitle": false,
+            "isSnapping": false,
+            "enableRating": false
+        },
+        {
+            "height": 0.11,
+            "marginRight": 0,
+            "pos": 1500,
+            "marginTop": 0,
+            "items": [
+                {
+                    "padding": 2.5,
+                    "tab": "",
+                    "image": "https://i.imgur.com/wzsBLkD.png"
+                }
+            ],
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "isSlider": false,
+            "layout": "bannerImage",
+            "fit": "fill"
+        },
+        {
+            "items": [
+                {
+                    "defaultShowProduct": false,
+                    "category": "465",
+                    "image": "https://i.imgur.com/cD4q5A9.png",
+                    "bannerWithProduct": false,
+                    "showSubcategory": false,
+                    "padding": 2.5,
+                    "products": []
+                },
+                {
+                    "category": "264",
+                    "defaultShowProduct": false,
+                    "products": [],
+                    "bannerWithProduct": false,
+                    "padding": 2.5,
+                    "showSubcategory": false,
+                    "image": "https://i.imgur.com/CSiTAhO.png"
+                }
+            ],
+            "design": "static",
+            "pos": 1600,
+            "marginBottom": 3,
+            "parallax": false,
+            "layout": "bannerImage",
+            "enableParallax": false,
+            "parallaxImageRatio": 1.2,
+            "fit": "fill",
+            "height": 0.2,
+            "marginTop": 0,
+            "isHorizontal": false,
+            "marginLeft": 0,
+            "marginRight": 0
+        },
+        {
+            "onSale": false,
+            "backgroundRadius": 10,
+            "columns": 0,
+            "name": "Shop Clothing",
+            "showStockStatus": false,
+            "enableBottomAddToCart": false,
+            "vPadding": 0,
+            "vMargin": 0,
+            "showCartIconColor": false,
+            "category": "772",
+            "showCartButtonWithQuantity": false,
+            "showCartButton": false,
+            "rows": 1,
+            "isSnapping": false,
+            "cartIconRadius": 9,
+            "imageBoxfit": "cover",
+            "borderRadius": 3,
+            "hidePrice": false,
+            "hideTitle": false,
+            "layout": "threeColumn",
+            "enableRating": false,
+            "imageRatio": 1.2,
+            "hPadding": 0,
+            "pos": 1700,
+            "showHeart": false,
+            "hideStore": false,
+            "featured": false,
+            "cardDesign": "card",
+            "showCartIcon": false,
+            "hMargin": 0,
+            "showQuantity": false
+        },
+        {
+            "fit": "contain",
+            "title": {
+                "marginRight": 0,
+                "title": "",
+                "marginTop": 0,
+                "marginLeft": 15,
+                "borderInput": false,
+                "usePrimaryColor": true,
+                "rotate": [],
+                "marginBottom": 0,
+                "paddingRight": 15,
+                "textOpacity": 1,
+                "paddingLeft": 5,
+                "height": 31,
+                "isSafeArea": false,
+                "paddingTop": 0,
+                "fontSize": 25,
+                "alignment": "centerLeft",
+                "paddingBottom": 0,
+                "fontWeight": 400,
+                "showSearch": false
+            },
+            "pos": 1800,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "layout": "bannerImage",
+            "marginRight": 0,
+            "marginLeft": 0,
+            "items": [
+                {
+                    "category": "618",
+                    "image": "https://i.imgur.com/eTx1ctH.jpeg",
+                    "padding": 2.5
+                }
+            ],
+            "height": 0.3,
+            "design": "static"
+        },
+        {
+            "isSafeArea": true,
+            "rotate": [],
+            "marginRight": 0,
+            "paddingTop": 0,
+            "marginBottom": 0,
+            "marginLeft": 15,
+            "layout": "header_text",
+            "fontWeight": 800,
+            "marginTop": 14.000000000000002,
+            "minWidth": 0,
+            "pos": 1900,
+            "borderInput": false,
+            "paddingLeft": 5,
+            "fontSize": 20,
+            "textOpacity": 1,
+            "showSearch": false,
+            "paddingBottom": 0,
+            "alignment": "centerLeft",
+            "height": 16.5,
+            "usePrimaryColor": true,
+            "paddingRight": 15,
+            "title": "Our Brands"
+        },
+        {
+            "noBackground": false,
+            "marginBottom": 10,
+            "marginTop": 10,
+            "itemSize": {
+                "width": 243.06152343750009,
+                "height": 103.05686996603136
+            },
+            "imageBorderStyle": "solid",
+            "hideTitle": false,
+            "border": 0.5,
+            "spacing": 12,
+            "marginLeft": 10,
+            "imageBoxFit": "fitWidth",
+            "pos": 2000,
+            "enableBorder": false,
+            "items": [
+                {
+                    "showText": false,
+                    "category": "479",
+                    "showDescription": false,
+                    "image": "https://i.imgur.com/XYuJ1EG.jpeg",
+                    "originalColor": true,
+                    "keepDefaultTitle": false
+                },
+                {
+                    "image": "https://i.imgur.com/65b9wpI.jpeg",
+                    "category": null,
+                    "showText": false
+                },
+                {
+                    "category": "482",
+                    "showText": false,
+                    "image": "https://i.imgur.com/NGgFEac.jpeg"
+                },
+                {
+                    "showText": false,
+                    "image": "https://i.imgur.com/Tx886Va.jpeg",
+                    "category": "480"
+                },
+                {
+                    "category": "837",
+                    "image": "https://i.imgur.com/XemMQCe.jpeg",
+                    "showText": false
+                },
+                {
+                    "showText": false,
+                    "image": "https://i.imgur.com/wSZbSF9.jpeg",
+                    "category": "899"
+                },
+                {
+                    "category": null,
+                    "showText": false,
+                    "image": "https://i.imgur.com/VxYLQYv.jpeg"
+                },
+                {
+                    "showText": false,
+                    "category": "972",
+                    "image": "https://i.imgur.com/29H2LFH.jpeg"
+                },
+                {
+                    "image": "https://i.imgur.com/y4pkAp5.jpeg",
+                    "showText": false,
+                    "category": "1046"
+                }
+            ],
+            "line": false,
+            "textAlignment": "topLeft",
+            "wrap": false,
+            "labelFontSize": 14,
+            "marginY": 8,
+            "type": "image",
+            "paddingY": 8,
+            "paddingX": 4,
+            "showShortDescription": true,
+            "marginRight": 10,
+            "radius": 0,
+            "layout": "category",
+            "imageSpacing": 0,
+            "size": 1,
+            "marginX": 4
+        }
+    ],
+    "Setting": {
+        "TabBarConfig": {
+            "marginRight": 0,
+            "showFloatingClip": false,
+            "indicatorStyle": "none",
+            "iconSize": 22.968195913186673,
+            "radiusTopLeft": 0,
+            "TabBarFloating": {
+                "color": "fff4e300",
+                "width": null,
+                "height": null,
+                "floatingType": "rectangle",
+                "position": 2,
+                "elevation": null,
+                "location": "centerDocked",
+                "radius": null
+            },
+            "enableOnTop": false,
+            "colorActiveIcon": "fff4e300",
+            "paddingLeft": 0,
+            "radiusTopRight": 0,
+            "showFloating": false,
+            "colorIcon": "ff7a7b7f",
+            "color": null,
+            "enable": true,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "marginBottom": 0,
+            "TabBarIndicator": {
+                "horizontalPadding": null,
+                "tabPosition": "bottom",
+                "distanceFromCenter": null,
+                "topRightRadius": null,
+                "paintingStyle": "fill",
+                "strokeWidth": null,
+                "topLeftRadius": null,
+                "verticalPadding": null,
+                "radius": null,
+                "height": null,
+                "bottomRightRadius": null,
+                "bottomLeftRadius": null,
+                "color": null
+            },
+            "radiusBottomRight": 0,
+            "paddingTop": 0,
+            "colorCart": "fff4e300",
+            "isSafeArea": true,
+            "marginLeft": 0,
+            "marginTop": 0,
+            "radiusBottomLeft": 0
+        },
+        "ShowChat": true,
+        "FontFamily": "Roboto",
+        "MainColor": "fff4e300",
+        "FontHeader": "Roboto",
+        "ProductListLayout": "list",
+        "ProductDetail": "simpleType",
+        "StickyHeader": true
+    },
+    "TabBar": [
+        {
+            "pos": 100,
+            "label": "Home",
+            "fontFamily": "Roboto",
+            "layout": "home",
+            "icon": "home"
+        },
+        {
+            "pos": 200,
+            "categoryLayout": "sideMenu",
+            "fontFamily": "MaterialIcons",
+            "categories": [
+                "596",
+                "600",
+                "599",
+                "458",
+                "260",
+                "45",
+                "917",
+                "915"
+            ],
+            "parallaxImageRatio": 1.2,
+            "parallax": false,
+            "label": "Categories ",
+            "layout": "category",
+            "icon": "auto_awesome_mosaic_outlined"
+        },
+        {
+            "icon": "assets/icons/tabs/icon-search.png",
+            "label": "search ",
+            "pos": 300,
+            "layout": "search"
+        },
+        {
+            "pos": 400,
+            "label": "Cart ",
+            "icon": "assets/icons/tabs/icon-cart2.png",
+            "layout": "cart"
+        },
+        {
+            "subGeneralSetting": {
+                "web-vef2tbfpyc": {
+                    "enableClose": false,
+                    "enableBackward": true,
+                    "webViewMode": true,
+                    "script": "",
+                    "title": "About",
+                    "iconFontFamily": "CupertinoIcons",
+                    "requiredLogin": false,
+                    "webUrl": "https://katanawave.com/company-profile/",
+                    "icon": "exclamationmark_circle",
+                    "enableForward": false
+                },
+                "privacy": {
+                    "requiredLogin": false,
+                    "webUrl": "https://katanawave.com/privacy-policy/",
+                    "webViewMode": true
+                },
+                "web-mzmqfdgfmm": {
+                    "requiredLogin": true,
+                    "webUrl": "https://katanawave.com/delete-my-account/",
+                    "enableBackward": true,
+                    "enableClose": true,
+                    "enableForward": false,
+                    "title": "Delete my account",
+                    "script": "",
+                    "icon": "delete_solid",
+                    "webViewMode": false,
+                    "iconFontFamily": "CupertinoIcons"
+                },
+                "web-h7o9hcawxq": {
+                    "iconFontFamily": "CupertinoIcons",
+                    "webUrl": "https://katanawave.com/privacy-policy/",
+                    "webViewMode": true,
+                    "title": "Privacy Policy",
+                    "enableClose": false,
+                    "enableForward": false,
+                    "enableBackward": true,
+                    "script": "",
+                    "requiredLogin": false,
+                    "icon": "doc_text"
+                },
+                "about": {
+                    "requiredLogin": false,
+                    "script": "",
+                    "enableClose": false,
+                    "enableBackward": true,
+                    "enableForward": false,
+                    "webViewMode": false,
+                    "webUrl": "https://katanawave.com/company-profile/"
+                }
+            },
+            "settings": [
+                "wishlist",
+                "point",
+                "darkTheme",
+                "order",
+                "rating",
+                "web-vef2tbfpyc",
+                "web-h7o9hcawxq"
+            ],
+            "label": "Pofile",
+            "drawerIcon": {
+                "icon": "text_justifyleft",
+                "fontFamily": "CupertinoIcons"
+            },
+            "layout": "profile",
+            "pos": 500,
+            "background": "https://i.imgur.com/mWtgYAi.png",
+            "icon": "assets/icons/tabs/icon-user.png"
+        }
+    ],
+    "AppBar": {
+        "items": [
+            {
+                "type": "icon",
+                "marginBottom": 4,
+                "fontWeight": "400",
+                "marginTop": 4,
+                "key": "zruzx6qq0u",
+                "iconSize": 20,
+                "fontSize": 16,
+                "icon": "bars",
+                "paddingTop": 4,
+                "pos": 100,
+                "marginRight": 4,
+                "marginLeft": 16,
+                "action": "menu",
+                "alignment": "center",
+                "fontFamily": "CupertinoIcons",
+                "paddingLeft": 4,
+                "paddingRight": 4,
+                "radius": 100,
+                "paddingBottom": 4,
+                "size": 48,
+                "textOpacity": 0.5
+            },
+            {
+                "iconSize": 20,
+                "icon": "search",
+                "marginBottom": 4,
+                "image": "https://i.imgur.com/hwBziBe.png",
+                "textOpacity": 0.5,
+                "action": "search",
+                "paddingRight": 16,
+                "fontWeight": "400",
+                "type": "image",
+                "fontFamily": "CupertinoIcons",
+                "marginLeft": 4,
+                "paddingLeft": 16,
+                "fontSize": 16,
+                "marginTop": 4,
+                "title": "Find your coffee...",
+                "key": "ok21lesrig",
+                "radius": 100,
+                "paddingBottom": 4,
+                "size": 40,
+                "imageBoxFit": "cover",
+                "height": 56,
+                "marginRight": 4,
+                "alignment": "center",
+                "paddingTop": 4,
+                "width": 100,
+                "pos": 400
+            },
+            {
+                "alignment": "center",
+                "fontFamily": "CupertinoIcons",
+                "size": 48,
+                "fontWeight": "400",
+                "paddingLeft": 4,
+                "key": "3il6u5on49",
+                "marginBottom": 4,
+                "marginLeft": 4,
+                "paddingRight": 4,
+                "marginTop": 4,
+                "fontSize": 16,
+                "marginRight": 16,
+                "type": "icon",
+                "icon": "bell_solid",
+                "iconSize": 20,
+                "action": "notification",
+                "paddingBottom": 4,
+                "radius": 100,
+                "paddingTop": 4,
+                "pos": 500,
+                "textOpacity": 0.5
+            }
+        ],
+        "showOnScreens": []
+    },
+    "Drawer": {
+        "key": "istwspxjfc",
+        "safeArea": true,
+        "iconColor": "ff000000",
+        "backgroundColor": "ffffff",
+        "items": [
+            {
+                "show": false,
+                "type": "blog"
+            },
+            {
+                "type": "home",
+                "show": true
+            },
+            {
+                "show": true,
+                "type": "login"
+            },
+            {
+                "type": "category",
+                "show": true
+            },
+            {
+                "show": false,
+                "type": "categories"
+            },
+            {
+                "show": false,
+                "type": "cart"
+            },
+            {
+                "type": "profile",
+                "show": false
+            },
+            {
+                "type": "web",
+                "show": false
+            },
+            {
+                "type": "title-fccpgcawf9",
+                "show": false
+            },
+            {
+                "show": true,
+                "type": "web-tt68qj25zk"
+            },
+            {
+                "type": "web-k24kofxqzd",
+                "show": true
+            },
+            {
+                "show": true,
+                "type": "web-jurypvfuxz"
+            }
+        ],
+        "filter": 0,
+        "enable": true,
+        "textColor": "ff000000",
+        "logoConfig": {
+            "height": 150,
+            "width": 250,
+            "marginTop": 60,
+            "marginRight": 0,
+            "marginBottom": 10,
+            "boxFit": "cover",
+            "marginLeft": 5
+        },
+        "zoomConfig": {
+            "mainScreenScale": 0.3,
+            "enableShadow": true,
+            "style": "style1",
+            "borderRadius": 16,
+            "backgroundImage": null,
+            "angle": -3,
+            "slideMargin": 26,
+            "slideWidth": 0.65
+        },
+        "subDrawerItem": {
+            "web-jurypvfuxz": {
+                "title": "Centers Directory",
+                "webUrl": "https://katanawave.com/kitesurfing-in-egypt/",
+                "icon": "map",
+                "iconFontFamily": "CupertinoIcons",
+                "requiredLogin": false,
+                "webViewMode": false
+            },
+            "web-k24kofxqzd": {
+                "iconFontFamily": "MaterialIcons",
+                "webUrl": "https://katanawave.com/kite-courses/",
+                "requiredLogin": false,
+                "webViewMode": false,
+                "title": "Kite Courses",
+                "icon": "library_books_rounded"
+            },
+            "title-fccpgcawf9": {
+                "fontSize": 9,
+                "title": "",
+                "verticalPadding": {
+                    "y": 15,
+                    "x": 15
+                },
+                "enableDivider": true,
+                "titleColor": null
+            },
+            "web-tt68qj25zk": {
+                "webViewMode": false,
+                "webUrl": "https://katanawave.com/safari-trips/",
+                "requiredLogin": false,
+                "title": "Safari Trips",
+                "icon": "anchor",
+                "iconFontFamily": "MaterialIcons"
+            }
+        },
+        "logo": "https://i.imgur.com/fSPl8J5.png"
+    },
+    "Version": 2,
+    "Datetime": "01:05:12 - Sat 10 Dec"
+}
